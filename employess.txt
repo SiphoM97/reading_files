@@ -1,0 +1,6 @@
+jim - sales
+john - hardware
+sofie - software
+brad - robotics
+smith - nuclear
+
